@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ota{
+    width: 240px;
+    height: 240px;background-color: palevioletred;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex ;
+    gap: 8px;
+}
+.ota1{
+    width: 240px;
+    height: 240px;background-color: palevioletred;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex ;
+    gap: 8px;
+    flex-direction: column;
+}
+.ota2{
+    width: 240px;
+    height: 240px;background-color: palevioletred;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex ;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+.ota3{
+    width: 240px;
+    height: 240px;background-color: palevioletred;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex ;
+    gap: 8px;
+    justify-content: space-around;
+}
+.ota4{
+    width: 240px;
+    height: 240px;background-color: palevioletred;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex ;
+    gap: 8px;
+}
+.ota5{
+    width: 240px;
+    height: 240px;background-color: palevioletred;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex ;
+    gap: 8px;
+    justify-content: end;
+}
+.ota6{
+    width: 240px;
+    height: 240px;background-color: palevioletred;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex ;
+    gap: 8px;
+    justify-content: center;
+}
+.ota7{
+    width: 240px;
+    height: 240px;background-color: palevioletred;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex ;
+    gap: 8px;
+    justify-content: space-around;
+}
+.ota8{
+    width: 240px;
+    height: 240px;background-color: palevioletred;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex ;
+    gap: 8px;
+}
+.ota9{
+    width: 240px;
+    height: 240px;background-color: palevioletred;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex ;
+    gap: 8px;
+    align-items: end;
+}
+.ota10{
+    width: 240px;
+    height: 240px;background-color: palevioletred;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex ;
+    gap: 8px;
+    align-items: center;
+}
+.ota11{
+    width: 240px;
+    height: 240px;background-color: palevioletred;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex ;
+    gap: 8px;
+}
+.ota12{
+    width: 240px;
+    height: 240px;background-color: palevioletred;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex ;
+    gap: 8px;
+}
+.bola{
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.doda{
+    display: flex;
+    gap: 40px;
+    padding: 85px 185px;
+    flex-wrap: wrap;
+}
